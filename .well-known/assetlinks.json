@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "church.mokyang.guri",
+      "sha256_cert_fingerprints": [
+        "D5:C8:6A:A7:96:B3:12:52:6E:02:C3:E2:83:DC:FA:CE:AD:EC:C9:8E:DF:3C:28:D5:F2:DB:50:B6:BD:B0:0D:27",
+        "AD:BA:61:6E:E9:27:3D:D1:6C:D8:FC:11:E7:3D:82:E3:D7:AE:5F:3C:E6:0F:5D:82:4A:63:2D:1A:D0:B7:C8:6C"
+      ]
+    }
+  }
+]
